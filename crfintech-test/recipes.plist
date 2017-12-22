@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>recipes</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Baked Tostadas</string>
+			<key>duration</key>
+			<string>20</string>
+			<key>image</key>
+			<string>baked_tostadas</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Balsamic Chicken</string>
+			<key>duration</key>
+			<string>25</string>
+			<key>image</key>
+			<string>balsamic_chicken</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bela Bhaat</string>
+			<key>duration</key>
+			<string>20</string>
+			<key>image</key>
+			<string>belabhaat</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cheese Steak Sandwich</string>
+			<key>duration</key>
+			<string>20</string>
+			<key>image</key>
+			<string>cheesesteak_sandwich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chicken Masala</string>
+			<key>duration</key>
+			<string>45</string>
+			<key>image</key>
+			<string>chicken_masala</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chicken Shawarma</string>
+			<key>duration</key>
+			<string>30</string>
+			<key>image</key>
+			<string>chicken_shawarma</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chicken Stuffed Avocado</string>
+			<key>duration</key>
+			<string>35</string>
+			<key>image</key>
+			<string>chicken_stuffed_avocado</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Moussaka</string>
+			<key>duration</key>
+			<string>25</string>
+			<key>image</key>
+			<string>moussaka</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roasted Basa</string>
+			<key>duration</key>
+			<string>40</string>
+			<key>image</key>
+			<string>roasted_basa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roasted Chicken</string>
+			<key>duration</key>
+			<string>45</string>
+			<key>image</key>
+			<string>roasted_chicken</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roasted Shark</string>
+			<key>duration</key>
+			<string>30</string>
+			<key>image</key>
+			<string>roasted_shark</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tuna Steaks</string>
+			<key>duration</key>
+			<string>25</string>
+			<key>image</key>
+			<string>tuna_steaks</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Veg Fried Rice</string>
+			<key>duration</key>
+			<string>15</string>
+			<key>image</key>
+			<string>veg_fried_rice</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zucchini</string>
+			<key>duration</key>
+			<string>30</string>
+			<key>image</key>
+			<string>zucchini</string>
+		</dict>
+	</array>
+</dict>
+</plist>
